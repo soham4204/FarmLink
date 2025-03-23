@@ -7,7 +7,7 @@ SkillBridge AI is a comprehensive career development platform designed to connec
 ## Features
 
 ### 🎯 Personalized Career Dashboard
-![Personalized Career Dashboard](images/dashboard.png)
+![Personalized Career Dashboard](1(1).png)
 - View four ideal job roles with match percentages based on your skills
 - Receive tailored job recommendations where you're most likely to excel
 - Track your career progression with visual analytics
