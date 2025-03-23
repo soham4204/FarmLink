@@ -7,46 +7,55 @@ SkillBridge AI is a comprehensive career development platform designed to connec
 ## Features
 
 ### 🎯 Personalized Career Dashboard
+![Personalized Career Dashboard](images/dashboard.png)
 - View four ideal job roles with match percentages based on your skills
 - Receive tailored job recommendations where you're most likely to excel
 - Track your career progression with visual analytics
 
 ### 👤 Professional Profile
+![Professional Profile](images/profile.png)
 - Create a sleek profile highlighting your strongest skills and experiences
 - Instantly attract employer attention with a professionally designed interface
 - Customize your professional brand to stand out in the job market
 
 ### 📝 Dynamic Resume Builder
+![Dynamic Resume Builder](images/resume_builder.png)
 - Craft standout resumes in minutes with our intuitive editor
 - Choose from professional templates to make your experience shine
 - Watch your resume update dynamically as you add new skills and projects
 
 ### 🛠️ Project Recommendations
+![Project Recommendations](images/project_recommendations.png)
 - Discover tailored project ideas aligned with your existing skill set
 - Build exactly what employers are looking for in your target roles
 - Expand your portfolio with industry-relevant demonstrations of your abilities
 
 ### 💬 Project Progress Assistant
+![Project Progress Assistant](images/project_assistant.png)
 - Get unstuck instantly with our intelligent project assistant chatbot
 - Resolve technical challenges quickly to maintain development momentum
 - Receive guidance tailored to your specific project needs
 
 ### 📊 Application Tracker
+![Application Tracker](images/application_tracker.png)
 - Monitor all job applications with our streamlined tracking system
 - Receive real-time status updates on your applications
 - Never miss an opportunity with organized application management
 
 ### 👨‍🏫 Mentorship Connections
+![Mentorship Connections](images/mentorship.png)
 - Connect with industry insiders for personalized guidance
 - Gain invaluable industry insights from experienced professionals
 - Fast-track your career growth through expert mentorship
 
 ### 🎤 AI Mock Interviews
+![AI Mock Interviews](images/mock_interview.png)
 - Practice with our realistic AI interviewer
 - Receive candid feedback to improve your responses
 - Build confidence for real interviews through repeated practice
 
 ### 💻 Coding Assessments
+![Coding Assessments](images/coding_assessments.png)
 - Prove your technical skills through engaging coding challenges
 - Tackle problems similar to those used by top employers
 - Showcase your problem-solving abilities in a practical format
